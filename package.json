@@ -1,0 +1,23 @@
+{
+  "name": "check-two",
+  "version": "1.0.0",
+  "description": "[![CI](https://github.com/camelCalm/check-two/actions/workflows/blank.yml/badge.svg)](https://github.com/camelCalm/check-two/actions/workflows/blank.yml)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camelCalm/check-two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camelCalm/check-two/issues"
+  },
+  "homepage": "https://github.com/camelCalm/check-two#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
