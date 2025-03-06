@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/camelCalm/check-two.git"
+    "url": "git+https://github.com/camelCalm/codecliamte_badges.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/camelCalm/check-two/issues"
+    "url": "https://github.com/camelCalm/codecliamte_badges/issues"
   },
-  "homepage": "https://github.com/camelCalm/check-two#readme",
+  "homepage": "https://github.com/camelCalm/codecliamte_badges#readme",
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "eslint": "^9.21.0",
