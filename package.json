@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/camelCalm/check-two/issues"
   },
-  "homepage": "https://github.com/camelCalm/check-two#readme"
+  "homepage": "https://github.com/camelCalm/check-two#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
