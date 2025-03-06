@@ -19,5 +19,10 @@
   "homepage": "https://github.com/camelCalm/check-two#readme",
   "dependencies": {
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "eslint": "^9.21.0",
+    "globals": "^16.0.0"
   }
 }
